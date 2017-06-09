@@ -4,7 +4,7 @@ WORK IN PROGRESS
 
 ## luksmgr, an easy utility to manage encrypted containers
 ### Usage: luksmgr [command [...options]]
-
+```
   commands:
       create (name, size, [pass])
         creates a new container
@@ -24,3 +24,4 @@ Copyright: (c) 2017 Daniele D'Accurso <daniele@daccurso.net>
 This utility is distributed under the BSD license
 
 For issues, visit: https://github.com/danieledaccurso/luksmgr
+```
